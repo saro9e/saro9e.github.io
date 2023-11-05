@@ -3,7 +3,7 @@
 title: Saurav Roy
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Saurav 
@@ -25,30 +25,33 @@ organizations:
     url: https://iisc.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Metamaterials for RF applications, antenna design, microwave imaging among others.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - RF Metamaterials 
+  - Microwave Imaging
+  - Particle Swarm Optimization
+  - Software-Defined Radio for RF Applications
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in ECE
+      institution: IISc Bengaluru
+      year: 2020-
+    - course: M.Tech(Research) in ECE (Electrical Communication
+Engineering)
+      institution: Indian Institute of Science (IISc) Bengaluru
+      year: 2020-
+    - course: BE in ETC (Electronics and
+Telecommunication Engineering)
+      institution: Indian Institute of Engineering Science and Technology (IIEST), Shibpur
+      year: 2015
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
+#skills:
   - name: Technical
     items:
       - name: Python
