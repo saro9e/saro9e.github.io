@@ -51,7 +51,7 @@ Telecommunication Engineering)
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#skills:
+skills:
   - name: Technical
     items:
       - name: Python
