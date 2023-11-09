@@ -40,12 +40,10 @@ education:
     - course: PhD in ECE
       institution: IISc Bengaluru
       year: 2020-
-    - course: M.Tech(Research) in ECE (Electrical Communication
-Engineering)
+    - course: M.Tech(Research) in ECE (Electrical Communication Engineering)
       institution: Indian Institute of Science (IISc) Bengaluru
       year: 2020-
-    - course: BE in ETC (Electronics and
-Telecommunication Engineering)
+    - course: BE in ETC (Electronics and Telecommunication Engineering)
       institution: Indian Institute of Engineering Science and Technology (IIEST), Shibpur
       year: 2015
 
