@@ -32,7 +32,7 @@ interests:
   - RF Metamaterials 
   - Microwave Imaging
   - Particle Swarm Optimization
-  - Software-Defined Radio for RF Applications
+  - Software-Defined Radio 
 
 # Education to show in About widget
 education:
@@ -40,7 +40,7 @@ education:
     - course: PhD in ECE
       institution: IISc Bengaluru
       year: 2020-
-    - course: M.Tech(Research) in ECE (Electrical Communication Engineering)
+    - course: M.Tech (Research) in ECE (Electrical Communication Engineering)
       institution: Indian Institute of Science (IISc) Bengaluru
       year: 2020-
     - course: BE in ETC (Electronics and Telecommunication Engineering)
@@ -103,13 +103,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=iBGL4DEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/saro9e
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/saurav-roy-39427282/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Saurav Roy is currently a PhD student of Microwave enginnering at the Microwave Lab, ECE Dept, IISc Bengaluru. His research interests include metasurface, microwave imaging and design optimization. He is a founding member of the IEEE MTT/AP-S Student Branch Chapter, IISc Bengaluru. He is also a recipient of the prestigious PMRF fellowship for the doctoral study.
 {style="text-align: justify;"}
